@@ -41,7 +41,7 @@ const projectsData: Project[] = [
   {
     id: 4,
     title: "Looker",
-    description: "Project 4 description",
+    description: "Product Manager and UI Designer",
     image: "looker.png",
     tag: ["All", "Developer"],
     previewUrl: "/",
@@ -97,7 +97,7 @@ const projectsData: Project[] = [
   {
     id: 11,
     title: "Tangkis",
-    description: "Product Manager and UI Designer",
+    description: "Product Manager",
     image: "tangkis.png",
     tag: ["All", "Developer"],
     previewUrl: "/",
