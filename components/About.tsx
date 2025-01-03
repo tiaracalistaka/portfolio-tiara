@@ -30,7 +30,7 @@ const TAB_DATA: Tab[] = [
     content: (
       <ul className="list-disc pl-2">
         <li>Core Member Information Centric Network Laboratory</li>
-        <li>Cabinet's Advisor BEM FILKOM UB</li>
+        <li>Cabinet&apos;s Advisor BEM FILKOM UB</li>
       </ul>
     ),
   },

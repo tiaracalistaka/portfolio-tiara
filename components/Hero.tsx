@@ -36,7 +36,7 @@ const Hero = () => {
             className="text-center text-[35px] sm:text-5xl"
           />
           <p className="text-center text-main_purple md:tracking-wider mb-4 text-lg sm:text-2xl">
-            Every project tells a story - Let's explore mine.
+            Every project tells a story - Let&apos;s explore mine.
           </p>
 
           <a href="https://github.com/tiaracalistaka">
