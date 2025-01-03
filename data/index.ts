@@ -8,7 +8,7 @@ export const navItems = [
 export const awards = [
   {
     name: "1st Place International UI/UX Vocation Worldwide Olympiad",
-    image: "/vwo.jpg",
+    image: "/vwo.JPG",
   },
   {
     name: "1st Place UI/UX Identitas",
@@ -16,15 +16,15 @@ export const awards = [
   },
   {
     name: "1st Place UI/UX Competition Technology Festival",
-    image: "/techfest.jpg",
+    image: "/techfest.JPG",
   },
   {
     name: "1st Place UI/UX Information Technology Olympiad XII And Fest",
-    image: "/ito.jpg",
+    image: "/ito.JPG",
   },
   {
     name: "1st Place UI/UX Technology Exploration",
-    image: "/techx.jpg",
+    image: "/techx.JPG",
   },
   {
     name: "Silver Medal Futuristic and Prestige Research, Technology, and Art",
@@ -32,7 +32,7 @@ export const awards = [
   },
   {
     name: "3rd Place UX Design IT CONVERT",
-    image: "/itconv.jpg",
+    image: "/itconv.JPG",
   },
   {
     name: "3rd Place UI UX Design GETEKSI Competition",
